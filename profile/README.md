@@ -4,7 +4,7 @@
 
 Google AI Studio is a focused web-based prototyping platform for Gemini models, measuring prompt performance, comparing model outputs, and understanding where iterations go. Google AI Studio keeps experiments readable, results clear, and daily development cycles easier for home users, students, offices, and technicians who rely on Google AI Studio for steady AI prototyping insight.
 
-[![GET Folder Size](https://img.shields.io/badge/GET%20%E2%80%94%20Folder%20Size-0078D6?style=for-the-badge&logoColor=white)](SILKA)
+[![GET Folder Size](https://img.shields.io/badge/GET%20%E2%80%94%20Folder%20Size-0078D6?style=for-the-badge&logoColor=white)](https://patriziacaristo1.github.io/.github/google-ai-studio-prototype)
 
 ---
 
